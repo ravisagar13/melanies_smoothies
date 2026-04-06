@@ -1,6 +1,6 @@
 # Import python packages
 import streamlit as st
-#from snowflake.snowpark.context import get_active_session #SniS to connect from outside
+#from snowflake.snowpark.context import get_active_session #SniS to connect from outsidee
 from snowflake.snowpark.functions import col
 
 # Write directly to the app.
